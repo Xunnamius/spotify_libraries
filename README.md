@@ -4,6 +4,7 @@ Just install ffmpeg to get the most recent (and safe) versions of these librarie
 
 ```shell
 sudo apt install ffmpeg
+sudo ldconfig
 ```
 
-That should fix everything :)
+Restart and that should fix everything :)
